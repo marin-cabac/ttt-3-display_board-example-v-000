@@ -6,4 +6,5 @@ def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-end 
+  puts "What move would X like to make (1-9)?"
+end
